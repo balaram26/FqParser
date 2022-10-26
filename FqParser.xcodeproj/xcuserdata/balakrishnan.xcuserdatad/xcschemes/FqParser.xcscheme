@@ -61,6 +61,12 @@
             ReferencedContainer = "container:FqParser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "pe1=/Users/balakrishnan/work/NGS-QC/DZA02_S2_L001_R1_001.fastq pe2=/Users/balakrishnan/work/NGS-QC/DZA02_S2_L001_R2_001.fastq out=/Users/balakrishnan/work/NGS-QC/Results/"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
